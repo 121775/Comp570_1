@@ -1,4 +1,4 @@
-# Comp570_1
+# Comp570_Animated_shapes
 
 * This program draws a blue ractangle, blue ellipse on the top of the screen, 
 * and green ractangle and green ellipse on the buttom of the screen
