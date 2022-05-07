@@ -9,3 +9,4 @@
 
 * @author 121775 
 * @version 2.0- 16.03.22: created
+* @This code's copyright is reserved by Lecturer and student 121775.
